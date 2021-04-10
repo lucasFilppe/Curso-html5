@@ -1,6 +1,6 @@
 ## Curso básico HTML5
 
-You can use the [editor on GitHub](https://github.com/lucasFilppe/Curso-html5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Link para o site de [pagina de curriculo](https://lucasfilppe.github.io/Curso-html5/).
 
 -Compreender os conceitos da linguagem de marcação HTML5<br>
 -Compreender como organizar seu conteúdo HTML5 usando corretamente as estruturas semânticas da linguagem<br>
