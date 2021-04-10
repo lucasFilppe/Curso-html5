@@ -2,36 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/lucasFilppe/Curso-html5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucasFilppe/Curso-html5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Compreender os conceitos da linguagem de marcação HTML5
+Compreender como organizar seu conteúdo HTML5 usando corretamente as estruturas semânticas da linguagem
+Compreender a importância da boa estruturação de páginas HTML 5 para auxiliar na indexação por parte das ferramentas de busca como Google e Bing
+Aprender como hospedar suas páginas gratuitamente usando o GitHub Pages, Netflify e até o Google Drive!
+Compreender os conceitos de registro de domínio e hospedagem de websites
+Hospedar suas páginas web de forma gratuita na Internet
+Registrar domínios de forma gratuita, para ter endereços web simples e sem o nome de empresas como Wix
+Ter uma visão geral das tecnologias HTML, CSS e JavaScript
